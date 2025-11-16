@@ -1,0 +1,392 @@
+[
+  {
+    "case_id": "SC/2023/101",
+    "ipc_sections": [
+      "354D",
+      "509"
+    ],
+    "summary": "Man harassed a woman online and offline.",
+    "judgment_text": "Accused found guilty under IPC 354D and 509.",
+    "verdict": "Guilty",
+    "year": 2023
+  },
+  {
+    "case_id": "HC/2022/78",
+    "ipc_sections": [
+      "376"
+    ],
+    "summary": "A man was convicted for sexual assault against a minor girl.",
+    "judgment_text": "The court sentenced the accused under IPC 376 for sexual assault.",
+    "verdict": "Guilty",
+    "year": 2022
+  },
+  {
+    "case_id": "SC/2024/001",
+    "ipc_sections": [
+      "354D",
+      "509"
+    ],
+    "summary": "Online harassment case involving social media threats and stalking.",
+    "judgment_text": "The court found the accused guilty of online harassment under IPC 354D and 509.",
+    "verdict": "Guilty",
+    "year": 2024,
+    "court": "Supreme Court",
+    "judges": [
+      "Justice A. Kumar"
+    ]
+  },
+  {
+    "case_id": "HC/2024/002",
+    "ipc_sections": [
+      "376",
+      "506"
+    ],
+    "summary": "Sexual assault case with criminal intimidation against a minor.",
+    "judgment_text": "Accused convicted under IPC 376 for sexual assault and IPC 506 for criminal intimidation.",
+    "verdict": "Guilty",
+    "year": 2024,
+    "court": "High Court",
+    "judges": [
+      "Justice B. Singh"
+    ]
+  },
+  {
+    "case_id": "SC/2024/003",
+    "ipc_sections": [
+      "498A",
+      "406"
+    ],
+    "summary": "Domestic violence case involving dowry harassment and criminal breach of trust.",
+    "judgment_text": "Court found evidence of dowry harassment under IPC 498A and criminal breach of trust under IPC 406.",
+    "verdict": "Guilty",
+    "year": 2024,
+    "court": "Supreme Court",
+    "judges": [
+      "Justice C. Sharma"
+    ]
+  },
+  {
+    "case_id": "HC/2024/004",
+    "ipc_sections": [
+      "354A",
+      "354B"
+    ],
+    "summary": "Workplace sexual harassment case with physical assault.",
+    "judgment_text": "Accused found guilty of workplace sexual harassment under IPC 354A and 354B.",
+    "verdict": "Guilty",
+    "year": 2024,
+    "court": "High Court",
+    "judges": [
+      "Justice D. Patel"
+    ]
+  },
+  {
+    "case_id": "SC/2024/005",
+    "ipc_sections": [
+      "420",
+      "406"
+    ],
+    "summary": "Cyber fraud case involving online cheating and criminal breach of trust.",
+    "judgment_text": "Court convicted the accused under IPC 420 for cheating and IPC 406 for criminal breach of trust.",
+    "verdict": "Guilty",
+    "year": 2024,
+    "court": "Supreme Court",
+    "judges": [
+      "Justice E. Reddy"
+    ]
+  },
+  {
+    "case_id": "HC/2024/006",
+    "ipc_sections": [
+      "354D",
+      "509"
+    ],
+    "summary": "Legal case 6 involving harassment and criminal intimidation.",
+    "judgment_text": "Court found the accused guilty in case 6 under relevant IPC sections.",
+    "verdict": "Guilty",
+    "year": 2024,
+    "court": "High Court",
+    "judges": [
+      "Justice G. Kumar"
+    ]
+  },
+  {
+    "case_id": "HC/2024/007",
+    "ipc_sections": [
+      "354D",
+      "509"
+    ],
+    "summary": "Legal case 7 involving harassment and criminal intimidation.",
+    "judgment_text": "Court found the accused guilty in case 7 under relevant IPC sections.",
+    "verdict": "Guilty",
+    "year": 2024,
+    "court": "High Court",
+    "judges": [
+      "Justice H. Kumar"
+    ]
+  },
+  {
+    "case_id": "HC/2024/008",
+    "ipc_sections": [
+      "354D",
+      "509"
+    ],
+    "summary": "Legal case 8 involving harassment and criminal intimidation.",
+    "judgment_text": "Court found the accused guilty in case 8 under relevant IPC sections.",
+    "verdict": "Guilty",
+    "year": 2024,
+    "court": "High Court",
+    "judges": [
+      "Justice I. Kumar"
+    ]
+  },
+  {
+    "case_id": "HC/2024/009",
+    "ipc_sections": [
+      "354D",
+      "509"
+    ],
+    "summary": "Legal case 9 involving harassment and criminal intimidation.",
+    "judgment_text": "Court found the accused guilty in case 9 under relevant IPC sections.",
+    "verdict": "Guilty",
+    "year": 2024,
+    "court": "High Court",
+    "judges": [
+      "Justice J. Kumar"
+    ]
+  },
+  {
+    "case_id": "HC/2024/010",
+    "ipc_sections": [
+      "354D",
+      "509"
+    ],
+    "summary": "Legal case 10 involving harassment and criminal intimidation.",
+    "judgment_text": "Court found the accused guilty in case 10 under relevant IPC sections.",
+    "verdict": "Guilty",
+    "year": 2024,
+    "court": "High Court",
+    "judges": [
+      "Justice K. Kumar"
+    ]
+  },
+  {
+    "case_id": "HC/2024/011",
+    "ipc_sections": [
+      "354D",
+      "509"
+    ],
+    "summary": "Legal case 11 involving harassment and criminal intimidation.",
+    "judgment_text": "Court found the accused guilty in case 11 under relevant IPC sections.",
+    "verdict": "Guilty",
+    "year": 2024,
+    "court": "High Court",
+    "judges": [
+      "Justice L. Kumar"
+    ]
+  },
+  {
+    "case_id": "HC/2024/012",
+    "ipc_sections": [
+      "354D",
+      "509"
+    ],
+    "summary": "Legal case 12 involving harassment and criminal intimidation.",
+    "judgment_text": "Court found the accused guilty in case 12 under relevant IPC sections.",
+    "verdict": "Guilty",
+    "year": 2024,
+    "court": "High Court",
+    "judges": [
+      "Justice M. Kumar"
+    ]
+  },
+  {
+    "case_id": "HC/2024/013",
+    "ipc_sections": [
+      "354D",
+      "509"
+    ],
+    "summary": "Legal case 13 involving harassment and criminal intimidation.",
+    "judgment_text": "Court found the accused guilty in case 13 under relevant IPC sections.",
+    "verdict": "Guilty",
+    "year": 2024,
+    "court": "High Court",
+    "judges": [
+      "Justice N. Kumar"
+    ]
+  },
+  {
+    "case_id": "HC/2024/014",
+    "ipc_sections": [
+      "354D",
+      "509"
+    ],
+    "summary": "Legal case 14 involving harassment and criminal intimidation.",
+    "judgment_text": "Court found the accused guilty in case 14 under relevant IPC sections.",
+    "verdict": "Guilty",
+    "year": 2024,
+    "court": "High Court",
+    "judges": [
+      "Justice O. Kumar"
+    ]
+  },
+  {
+    "case_id": "HC/2024/015",
+    "ipc_sections": [
+      "354D",
+      "509"
+    ],
+    "summary": "Legal case 15 involving harassment and criminal intimidation.",
+    "judgment_text": "Court found the accused guilty in case 15 under relevant IPC sections.",
+    "verdict": "Guilty",
+    "year": 2024,
+    "court": "High Court",
+    "judges": [
+      "Justice P. Kumar"
+    ]
+  },
+  {
+    "case_id": "IK/538436",
+    "url": "https://indiankanoon.org/doc/538436/",
+    "search_term": "harassment",
+    "summary": "",
+    "ipc_sections": [],
+    "judgment_text": "",
+    "verdict": "Unknown",
+    "year": 2023,
+    "court": "Unknown Court",
+    "judges": []
+  },
+  {
+    "case_id": "IK/1569253",
+    "url": "https://indiankanoon.org/doc/1569253/",
+    "search_term": "harassment",
+    "summary": "",
+    "ipc_sections": [],
+    "judgment_text": "",
+    "verdict": "Guilty",
+    "year": 2023,
+    "court": "Unknown Court",
+    "judges": []
+  },
+  {
+    "case_id": "IK/189755549",
+    "url": "https://indiankanoon.org/doc/189755549/",
+    "search_term": "sexual assault",
+    "summary": "",
+    "ipc_sections": [],
+    "judgment_text": "",
+    "verdict": "Unknown",
+    "year": 2023,
+    "court": "Unknown Court",
+    "judges": []
+  },
+  {
+    "case_id": "IK/103108231",
+    "url": "https://indiankanoon.org/doc/103108231/",
+    "search_term": "sexual assault",
+    "summary": "",
+    "ipc_sections": [],
+    "judgment_text": "",
+    "verdict": "Guilty",
+    "year": 2023,
+    "court": "Unknown Court",
+    "judges": []
+  },
+  {
+    "case_id": "IK/1373165",
+    "url": "https://indiankanoon.org/doc/1373165/",
+    "search_term": "domestic violence",
+    "summary": "",
+    "ipc_sections": [],
+    "judgment_text": "",
+    "verdict": "Unknown",
+    "year": 2023,
+    "court": "Unknown Court",
+    "judges": []
+  },
+  {
+    "case_id": "IK/542601",
+    "url": "https://indiankanoon.org/doc/542601/",
+    "search_term": "domestic violence",
+    "summary": "",
+    "ipc_sections": [],
+    "judgment_text": "",
+    "verdict": "Unknown",
+    "year": 2023,
+    "court": "Unknown Court",
+    "judges": []
+  },
+  {
+    "case_id": "IK/139318141",
+    "url": "https://indiankanoon.org/doc/139318141/",
+    "search_term": "cyber crime",
+    "summary": "\n\nTake notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member Services -- Sign up today and get free trial for one month.\n\nState Consumer Disputes Redressal Commission\nKotak Mahindra Bank Ltd. vs K.Seetharam Bhat on 14 January, 2022\n  \t Daily Order \t   \n\n BEFORE THE KARNATAKA STATE CONSUMER DISPUTES REDRESSAL COMMISSION, BANGALORE\n\n \n\n\u00a0\n\n \n\n DATED THIS THE 14TH DAY OF JANUARY...",
+    "ipc_sections": [],
+    "judgment_text": "\n\nTake notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member Services -- Sign up today and get free trial for one month.\n\nState Consumer Disputes Redressal Commission\nKotak Mahindra Bank Ltd. vs K.Seetharam Bhat on 14 January, 2022\n  \t Daily Order \t   \n\n BEFORE THE KARNATAKA STATE CONSUMER DISPUTES REDRESSAL COMMISSION, BANGALORE\n\n \n\n\u00a0\n\n \n\n DATED THIS THE 14TH DAY OF JANUARY 2022\n\n \n\n\u00a0\n\n \n\n PRESENT\n\n \n\n\u00a0\n\n \n\n HON'BLE Mr. JUSTICE HULUVADI G. RAMESH\u00a0\u00a0\u00a0 : PRESIDENT\n\n \n\nMR. K.B. SANGANNAVAR\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : JUDICIAL MEMBER\n\nMRS. DIVYASHREE M.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : MEMBER\n\n \n\n\u00a0\n\n \n\n Appeal Nos. 2496/2017, 2497/2017 & 73/2018\n\n \n\n\u00a0\n\n \n\t \n\t\t \n\t\t\t \n\t\t\t \n\n Appeal No.2496/2017\n\n\t\t\t \n\t\t\t\t The Chief Manager\n\t\t\t\n\n\t\t\t \n\nKarnataka Bank Ltd.\n\n\t\t\t \n\nKodialbail Branch, Kodialbail\n\n\t\t\t \n\nMangaluru - 03\n\n\t\t\t \n\n\u00a0\n\n\t\t\t \n\t\t\t\t Karnataka Bank Ltd.\n\t\t\t\n\n\t\t\t ...",
+    "verdict": "Dismissed",
+    "year": 2023,
+    "court": "Unknown Court",
+    "judges": []
+  },
+  {
+    "case_id": "IK/157003932",
+    "url": "https://indiankanoon.org/doc/157003932/",
+    "search_term": "cyber crime",
+    "summary": "\n\nTake notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member Services -- Sign up today and get free trial for one month.\n\nJharkhand High Court\nMahesh Kumar Poddar vs The State Of Jharkhand on 13 May, 2022\nAuthor: Sanjay Prasad\nBench: Sanjay Prasad\n                               1\n\n     IN THE HIGH COURT OF JHARKHAND AT RANCHI\n                   Cr. Appeal (S.J.) No. 433 of 2...",
+    "ipc_sections": [],
+    "judgment_text": "\n\nTake notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member Services -- Sign up today and get free trial for one month.\n\nJharkhand High Court\nMahesh Kumar Poddar vs The State Of Jharkhand on 13 May, 2022\nAuthor: Sanjay Prasad\nBench: Sanjay Prasad\n                               1\n\n     IN THE HIGH COURT OF JHARKHAND AT RANCHI\n                   Cr. Appeal (S.J.) No. 433 of 2021\n                          .....\n Mahesh Kumar Poddar                          ..... Appellant\n                        Versus\nThe State of Jharkhand                        ...... Respondent\n                           -----\n                        Present\n         HON'BLE MR. JUSTICE SANJAY PRASAD\n                         -----\nFor the Appellant        : Mr. Jitendra Shankar Singh,Advocate\nFor the State            : Mr. Shailendra Kumar Tiwari, Spl.P.P.\n                         ......\n        ...",
+    "verdict": "Convicted",
+    "year": 2023,
+    "court": "Unknown Court",
+    "judges": []
+  },
+  {
+    "case_id": "IK/27280854",
+    "url": "https://indiankanoon.org/doc/27280854/",
+    "search_term": "stalking",
+    "summary": "",
+    "ipc_sections": [],
+    "judgment_text": "",
+    "verdict": "Unknown",
+    "year": 2023,
+    "court": "Unknown Court",
+    "judges": []
+  },
+  {
+    "case_id": "IK/180217",
+    "url": "https://indiankanoon.org/doc/180217/",
+    "search_term": "threat",
+    "summary": "",
+    "ipc_sections": [],
+    "judgment_text": "",
+    "verdict": "Unknown",
+    "year": 2023,
+    "court": "Unknown Court",
+    "judges": []
+  },
+  {
+    "case_id": "IK/1679850",
+    "url": "https://indiankanoon.org/doc/1679850/",
+    "search_term": "abuse",
+    "summary": "",
+    "ipc_sections": [],
+    "judgment_text": "",
+    "verdict": "Unknown",
+    "year": 2023,
+    "court": "Unknown Court",
+    "judges": []
+  },
+  {
+    "case_id": "IK/445276",
+    "url": "https://indiankanoon.org/doc/445276/",
+    "search_term": "abuse",
+    "summary": "",
+    "ipc_sections": [],
+    "judgment_text": "",
+    "verdict": "Guilty",
+    "year": 2023,
+    "court": "Unknown Court",
+    "judges": []
+  }
+]

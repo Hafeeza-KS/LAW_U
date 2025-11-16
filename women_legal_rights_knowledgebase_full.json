@@ -1,0 +1,424 @@
+[
+    {
+        "category": "Constitutional Right",
+        "title": "Article 14",
+        "description": "Ensures equality before law for all persons.",
+        "history": "Part of the original Constitution of India (1950), it ensures the state treats all individuals equally before the law. Its principle was inspired by the American and Irish constitutions.",
+        "purpose": "To eliminate legal discrimination based on caste, religion, sex, or economic status and promote fairness in governance.",
+        "case_examples": []
+    },
+    {
+        "category": "Constitutional Right",
+        "title": "Article 15",
+        "description": "Prohibits discrimination on grounds of religion, race, caste, sex, or place of birth.",
+        "history": "Formulated as part of the original Constitution in 1950, Article 15 reflects India\u2019s commitment to social equality after centuries of hierarchy.",
+        "purpose": "To prevent systemic exclusion and oppression of women, Dalits, and minority communities from public spaces and opportunities.",
+        "case_examples": []
+    },
+    {
+        "category": "Constitutional Right",
+        "title": "Article 15(3)",
+        "description": "Allows the State to make special provisions in favor of women and children.",
+        "history": "Included in the original Constitution to permit 'positive discrimination' to address disadvantages faced by women.",
+        "purpose": "To provide a constitutional basis for laws and policies that specifically benefit women, such as reservations in local government.",
+        "case_examples": []
+    },
+    {
+        "category": "Constitutional Right",
+        "title": "Article 16",
+        "description": "Ensures equal opportunity for all citizens in matters of public employment.",
+        "history": "A key part of the original Constitution (1950), Article 16 is a Fundamental Right aimed at ensuring a fair and just system of employment.",
+        "purpose": "To prevent discrimination in government jobs and uphold the principle of merit.",
+        "case_examples": [
+            {
+                "case_id": "C.B. Muthamma v. Union of India",
+                "summary": "The Supreme Court in this case struck down discriminatory service rules that prevented women from getting promoted, as they were violative of Articles 14 and 16."
+            }
+        ]
+    },
+    {
+        "category": "Constitutional Right",
+        "title": "Article 21",
+        "description": "Protects the right to life and personal liberty.",
+        "history": "Part of the original Constitution (1950), its scope has been expanded by the Supreme Court over the years to include a wide range of rights, such as the right to a clean environment, privacy, and health.",
+        "purpose": "To guarantee the fundamental rights to life, liberty, and human dignity, which are the basis for many other laws protecting women.",
+        "case_examples": [
+            {
+                "case_id": "Suchita Srivastava v. Chandigarh Administration",
+                "summary": "The Supreme Court held that a woman's right to terminate her pregnancy is a part of her right to privacy and bodily autonomy under Article 21."
+            }
+        ]
+    },
+    {
+        "category": "Constitutional Right",
+        "title": "Article 39(a)",
+        "description": "State policy to ensure equal right to livelihood for men and women.",
+        "history": "This is a Directive Principle of State Policy (DPSP) from the original Constitution. It is a guiding principle for the government.",
+        "purpose": "To ensure economic justice and equality between men and women in the workplace.",
+        "case_examples": []
+    },
+    {
+        "category": "Constitutional Right",
+        "title": "Article 42",
+        "description": "Provides for maternity relief and humane conditions of work.",
+        "history": "A DPSP in the original Constitution (1950), this article provides the basis for laws like the Maternity Benefit Act.",
+        "purpose": "To ensure that women are protected during pregnancy and childbirth and have a safe working environment.",
+        "case_examples": []
+    },
+    {
+        "category": "Constitutional Right",
+        "title": "Article 51A(e)",
+        "description": "A fundamental duty of every citizen to renounce practices derogatory to the dignity of women.",
+        "history": "Added to the Constitution by the 42nd Amendment in 1976.",
+        "purpose": "To promote harmony and protect the dignity of women.",
+        "case_examples": []
+    },
+    {
+        "category": "Constitutional Right",
+        "title": "Article 32",
+        "description": "Right to constitutional remedies.",
+        "history": "Part of the original Constitution (1950), this article gives every citizen the right to approach the Supreme Court directly for the enforcement of Fundamental Rights.",
+        "purpose": "To provide a powerful and direct legal remedy for the protection of fundamental rights, including those of women.",
+        "case_examples": []
+    },
+    {
+        "category": "Criminal Law",
+        "title": "IPC Section 354",
+        "description": "Assault or criminal force to a woman with intent to outrage her modesty.",
+        "history": "A part of the original IPC (1860), it has been amended multiple times to address evolving forms of offenses against women, including the Criminal Law (Amendment) Act, 2013.",
+        "purpose": "To criminalize acts that violate a woman's modesty and dignity.",
+        "case_examples": []
+    },
+    {
+        "category": "Criminal Law",
+        "title": "IPC Section 354A",
+        "description": "Sexual harassment of a woman.",
+        "history": "Introduced by the Criminal Law (Amendment) Act, 2013, to specifically address sexual harassment.",
+        "purpose": "To provide a clear legal framework for prosecuting cases of sexual harassment.",
+        "case_examples": []
+    },
+    {
+        "category": "Criminal Law",
+        "title": "IPC Section 354B",
+        "description": "Assault or use of criminal force to a woman with intent to disrobe.",
+        "history": "Introduced by the Criminal Law (Amendment) Act, 2013.",
+        "purpose": "To specifically address physical assaults aimed at humiliating a woman by forcing her to undress.",
+        "case_examples": []
+    },
+    {
+        "category": "Criminal Law",
+        "title": "IPC Section 354C",
+        "description": "Voyeurism.",
+        "history": "Introduced by the Criminal Law (Amendment) Act, 2013.",
+        "purpose": "To criminalize the act of watching or capturing a woman in a private act without her consent.",
+        "case_examples": []
+    },
+    {
+        "category": "Criminal Law",
+        "title": "IPC Section 354D",
+        "description": "Stalking.",
+        "history": "Introduced by the Criminal Law (Amendment) Act, 2013, in the wake of the Nirbhaya case.",
+        "purpose": "To protect women from unwanted attention, harassment, and threats.",
+        "case_examples": [
+            {
+                "case_id": "State of Tamil Nadu v. Suhas Katti",
+                "summary": "This case set a legal precedent for addressing online harassment and provided recourse against cyberstalking and online abuse."
+            }
+        ]
+    },
+    {
+        "category": "Criminal Law",
+        "title": "IPC Section 376",
+        "description": "Rape.",
+        "history": "Part of the original IPC (1860), it has been amended multiple times, most significantly by the Criminal Law (Amendment) Act, 2013, which broadened its definition and increased penalties.",
+        "purpose": "To criminalize non-consensual sexual intercourse and provide a legal framework for prosecuting perpetrators.",
+        "case_examples": [
+            {
+                "case_id": "Vishaka v. State of Rajasthan",
+                "summary": "This landmark case led to the creation of the Vishaka Guidelines, a precursor to the PoSH Act, and highlighted the lack of legal protection against sexual harassment in the workplace."
+            }
+        ]
+    },
+    {
+        "category": "Criminal Law",
+        "title": "IPC Section 376A",
+        "description": "Rape causing death or persistent vegetative state.",
+        "history": "Introduced by the Criminal Law (Amendment) Act, 2013, in response to the public outcry following the Nirbhaya case, to provide harsher punishment for extreme sexual assaults.",
+        "purpose": "To provide a more severe legal provision for offenses that result in the death or a permanent vegetative state of the victim.",
+        "case_examples": []
+    },
+    {
+        "category": "Criminal Law",
+        "title": "IPC Section 376AB",
+        "description": "Rape of a woman under 12 years.",
+        "history": "Introduced by the Criminal Law (Amendment) Act, 2018, to provide a more stringent law for the sexual assault of children.",
+        "purpose": "To provide an even more severe punishment for the rape of a young child, including the death penalty in some cases.",
+        "case_examples": []
+    },
+    {
+        "category": "Criminal Law",
+        "title": "IPC Section 376B",
+        "description": "Intercourse by a husband upon his wife during separation.",
+        "history": "This section was introduced to address sexual abuse within a marriage when the couple is judicially separated.",
+        "purpose": "To criminalize forced sexual intercourse by a husband with his wife after a court has ordered a separation, recognizing her right to bodily autonomy even within a marriage.",
+        "case_examples": []
+    },
+    {
+        "category": "Criminal Law",
+        "title": "IPC Section 376C",
+        "description": "Sexual intercourse by a person in authority.",
+        "history": "Introduced to address the misuse of power and authority by individuals such as police officers or public servants who commit sexual assault.",
+        "purpose": "To provide a separate legal provision with a more stringent punishment for sexual assault committed by a person in a position of authority.",
+        "case_examples": []
+    },
+    {
+        "category": "Criminal Law",
+        "title": "IPC Section 376D",
+        "description": "Gang rape.",
+        "history": "Introduced by the Criminal Law (Amendment) Act, 2013, to provide specific and stringent punishment for gang rape.",
+        "purpose": "To provide a separate and more severe legal provision for a particularly heinous form of sexual assault.",
+        "case_examples": [
+            {
+                "case_id": "State of M.P. v. Man Singh",
+                "summary": "The Supreme Court highlighted that the victim's testimony in gang rape cases, if credible, is sufficient to convict the accused, emphasizing a gender-sensitive approach."
+            }
+        ]
+    },
+    {
+        "category": "Criminal Law",
+        "title": "IPC Section 376DA",
+        "description": "Gang rape of a girl under 16 years.",
+        "history": "Introduced by the Criminal Law (Amendment) Act, 2018, to provide a more severe punishment for the gang rape of minors.",
+        "purpose": "To provide a stronger deterrent and more severe legal provision for the gang rape of children.",
+        "case_examples": []
+    },
+    {
+        "category": "Criminal Law",
+        "title": "IPC Section 376DB",
+        "description": "Gang rape of a girl under 12 years.",
+        "history": "Introduced by the Criminal Law (Amendment) Act, 2018, to provide the most severe punishment, including the death penalty, for the gang rape of a young child.",
+        "purpose": "To provide the most stringent legal provision for gang rape of a young child.",
+        "case_examples": []
+    },
+    {
+        "category": "Criminal Law",
+        "title": "IPC Section 498A",
+        "description": "Cruelty by husband or his relatives.",
+        "history": "Introduced in 1983 to combat the problem of dowry-related violence and harassment.",
+        "purpose": "To protect married women from cruelty by their husband or in-laws.",
+        "case_examples": [
+            {
+                "case_id": "Preeti v. State of NCT Delhi",
+                "summary": "The Supreme Court in this case observed that not every argument or disagreement between spouses could be labeled as cruelty under this section."
+            }
+        ]
+    },
+    {
+        "category": "Criminal Law",
+        "title": "IPC Section 509",
+        "description": "Insulting the modesty of a woman.",
+        "history": "Part of the original IPC (1860).",
+        "purpose": "To criminalize acts, words, or gestures that are intended to insult the modesty of a woman.",
+        "case_examples": []
+    },
+    {
+        "category": "Personal Law",
+        "title": "Protection of Women from Domestic Violence Act, 2005",
+        "description": "Provides protection for women from physical, emotional, sexual, and economic abuse within their households.",
+        "history": "This civil law was enacted to provide a wider range of legal remedies, including protection orders and monetary relief, in addition to criminal penalties.",
+        "purpose": "To protect women from all forms of domestic abuse.",
+        "case_examples": [
+            {
+                "case_id": "Prabha Tyagi v. Kamlesh Tyagi",
+                "summary": "The Supreme Court held that every woman in a domestic relationship has a statutory right to reside in the shared household of her husband."
+            }
+        ]
+    },
+    {
+        "category": "Personal Law",
+        "title": "Hindu Marriage Act, 1955",
+        "description": "Governs marriage and divorce among Hindus, Buddhists, Jains, and Sikhs.",
+        "history": "Part of a series of laws modernizing Hindu personal laws after independence. It introduced concepts like divorce and judicial separation.",
+        "purpose": "To codify and reform the law relating to marriage among Hindus.",
+        "case_examples": [
+            {
+                "case_id": "Savitri Pandey v. Prem Chandra Pandey",
+                "summary": "The court held that cruelty under this act is a relative term that depends on the specific facts and circumstances of the case."
+            }
+        ]
+    },
+    {
+        "category": "Personal Law",
+        "title": "Muslim Personal Law (Shariat) Application Act, 1937",
+        "description": "Governs personal matters for Muslims.",
+        "history": "Enacted to ensure that in matters of personal law, Muslims would be governed by Islamic law (Shariat) rather than local customs and traditions.",
+        "purpose": "To consolidate and clarify the law relating to marriage, succession, and other personal matters for Muslims in India.",
+        "case_examples": []
+    },
+    {
+        "category": "Personal Law",
+        "title": "Special Marriage Act, 1954",
+        "description": "For inter-faith and civil marriages.",
+        "history": "Enacted to provide a legal framework for marriages between individuals of different religions, castes, or faiths. It also allows for a civil marriage to be registered without religious ceremonies.",
+        "purpose": "To enable couples from different religious backgrounds to get married and have their marriage legally registered.",
+        "case_examples": []
+    },
+    {
+        "category": "Personal Law",
+        "title": "Dowry Prohibition Act, 1961",
+        "description": "Prohibits the giving or taking of dowry and penalizes its demand.",
+        "history": "Enacted to combat the social evil of dowry. It was amended in 1984 and 1986 to make its provisions more stringent.",
+        "purpose": "To make dowry a cognizable offense and protect women from exploitation and violence related to dowry demands.",
+        "case_examples": []
+    },
+    {
+        "category": "Personal Law",
+        "title": "Section 125 of CrPC",
+        "description": "Provides maintenance to wives, parents, and children who are unable to maintain themselves.",
+        "history": "This section has been a part of the Code of Criminal Procedure since its inception and has been used widely to provide quick maintenance to women after separation or divorce.",
+        "purpose": "To prevent destitution and vagrancy by providing a speedy remedy for maintenance.",
+        "case_examples": [
+            {
+                "case_id": "Mohd. Ahmed Khan v. Shah Bano Begum",
+                "summary": "The Supreme Court in this case ruled that a divorced Muslim woman is entitled to maintenance from her husband under Section 125 of the CrPC, a landmark judgment affirming a woman's right to maintenance regardless of her religion."
+            }
+        ]
+    },
+    {
+        "category": "Personal Law",
+        "title": "Hindu Succession Act (Amendment), 2005",
+        "description": "Gives daughters equal rights to ancestral property.",
+        "history": "This amendment was a landmark step in addressing gender-based inequality in property inheritance.",
+        "purpose": "To ensure that daughters have the same rights to a coparcenary property as sons.",
+        "case_examples": [
+            {
+                "case_id": "Vineeta Sharma v. Rakesh Sharma",
+                "summary": "The Supreme Court clarified that a daughter's right to coparcenary property is by birth and not dependent on whether her father was alive at the time of the 2005 amendment."
+            }
+        ]
+    },
+    {
+        "category": "Reproductive Rights",
+        "title": "Medical Termination of Pregnancy (MTP) Act, 1971 (Amended 2021)",
+        "description": "Legalizes abortion under defined conditions up to 24 weeks.",
+        "history": "The 2021 amendment expanded the legal gestational limit for abortion, especially for special categories of women, to provide greater reproductive autonomy.",
+        "purpose": "To provide a legal and safe framework for the termination of unwanted pregnancies.",
+        "case_examples": []
+    },
+    {
+        "category": "Reproductive Rights",
+        "title": "Pre-Conception and Pre-Natal Diagnostic Techniques Act (PCPNDT), 1994",
+        "description": "Prohibits sex determination and female foeticide.",
+        "history": "This act was enacted to curb the practice of female foeticide and to ban sex-selection before or after conception.",
+        "purpose": "To stop the practice of sex determination and to ensure that the birth of a female child is not discouraged.",
+        "case_examples": []
+    },
+    {
+        "category": "Child Protection",
+        "title": "Protection of Children from Sexual Offences (POCSO) Act, 2012",
+        "description": "Protects children from sexual offenses.",
+        "history": "Introduced as a comprehensive law specifically to deal with child sexual abuse and exploitation.",
+        "purpose": "To provide a child-friendly legal framework for reporting, investigating, and prosecuting cases of child sexual abuse.",
+        "case_examples": []
+    },
+    {
+        "category": "Child Protection",
+        "title": "Prohibition of Child Marriage Act, 2006",
+        "description": "Prohibits marriage under age 18 for girls.",
+        "history": "Replaced the Child Marriage Restraint Act, 1929, to provide a more stringent legal framework and enhance penalties.",
+        "purpose": "To prohibit child marriage and ensure the well-being and rights of minors.",
+        "case_examples": [
+            {
+                "case_id": "Lata Singh v. State of Uttar Pradesh",
+                "summary": "While not directly about this act, this case affirmed the right of adults to choose their life partners. The court also directed action against those who engage in violence against such couples."
+            }
+        ]
+    },
+    {
+        "category": "Workplace",
+        "title": "Sexual Harassment of Women at Workplace (PoSH Act), 2013",
+        "description": "Protects women from sexual harassment in the workplace.",
+        "history": "Based on the landmark Vishaka Guidelines laid down by the Supreme Court in 1997. The law was enacted to provide a statutory mechanism for redressal.",
+        "purpose": "To ensure a safe, respectful working environment for women.",
+        "case_examples": [
+            {
+                "case_id": "Vishaka v. State of Rajasthan",
+                "summary": "This landmark judgment laid down comprehensive guidelines to prevent and address sexual harassment in workplaces, which eventually led to the PoSH Act."
+            }
+        ]
+    },
+    {
+        "category": "Workplace",
+        "title": "Maternity Benefit Act, 1961",
+        "description": "Provides for paid maternity leave and benefits.",
+        "history": "The act was first enacted in 1961 and has been amended to increase the duration of paid leave and include a 'work from home' option.",
+        "purpose": "To support working women during pregnancy and motherhood and ensure their health and economic security.",
+        "case_examples": [
+            {
+                "case_id": "B. Shah v. Presiding Officer, Labour Court",
+                "summary": "The Supreme Court ruled that maternity benefits are essential for a woman's health and are a social right, not charity."
+            }
+        ]
+    },
+    {
+        "category": "Workplace",
+        "title": "Equal Remuneration Act, 1976",
+        "description": "Ensures equal pay for equal work.",
+        "history": "Enacted to give effect to the principle of equal pay, as mandated by the Indian Constitution.",
+        "purpose": "To prevent gender-based discrimination in the payment of wages.",
+        "case_examples": []
+    },
+    {
+        "category": "Workplace",
+        "title": "Factories Act, 1948",
+        "description": "Protects women\u2019s working conditions in factories.",
+        "history": "This act was a key piece of early labor legislation in India. It includes specific provisions for women, such as limitations on working hours and requirements for cr\u00e8ches in workplaces.",
+        "purpose": "To regulate working conditions, including safety and health, for workers, with special provisions for the protection of women.",
+        "case_examples": []
+    },
+    {
+        "category": "Elder Rights",
+        "title": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "description": "Provides care and maintenance to senior women and men.",
+        "history": "Enacted to provide a speedy and inexpensive legal mechanism for parents and senior citizens to claim maintenance from their children.",
+        "purpose": "To ensure that senior citizens, including women, who are unable to maintain themselves are provided for by their children or relatives.",
+        "case_examples": []
+    },
+    {
+        "category": "Social Welfare",
+        "title": "National Commission for Women Act, 1990",
+        "description": "Establishes a statutory body for women\u2019s rights.",
+        "history": "The National Commission for Women (NCW) was set up as a statutory body in January 1992 under this Act to review the Constitutional and legal safeguards for women.",
+        "purpose": "To facilitate the redressal of grievances and advise the Government on all policy matters affecting women.",
+        "case_examples": []
+    },
+    {
+        "category": "Social Welfare",
+        "title": "Indecent Representation of Women (Prohibition) Act, 1986",
+        "description": "Prohibits indecent representation of women in media and advertisements.",
+        "history": "The act was passed to protect the dignity of women by prohibiting the vulgar and indecent portrayal of women in advertisements, books, and other forms of media.",
+        "purpose": "To safeguard women's decency and dignity and encourage respect towards them.",
+        "case_examples": []
+    },
+    {
+        "category": "Social Welfare",
+        "title": "Legal Services Authorities Act, 1987",
+        "description": "Provides free legal aid to women and other weaker sections of society.",
+        "history": "Enacted to give effect to Article 39A of the Constitution, which promotes justice on a basis of equal opportunity.",
+        "purpose": "To ensure that no citizen is denied justice by reason of economic or other disabilities.",
+        "case_examples": []
+    },
+    {
+        "category": "Digital Rights",
+        "title": "Information Technology Act, 2000 (Relevant Sections)",
+        "description": "Covers cyberstalking, digital harassment and abuse.",
+        "history": "Enacted to provide a legal framework for electronic governance and to address cybercrimes.",
+        "purpose": "To protect individuals from cybercrimes and provide legal recourse for online harassment.",
+        "case_examples": [
+            {
+                "case_id": "State of Tamil Nadu v. Suhas Katti",
+                "summary": "This was one of the first cases in India where a person was convicted for online harassment under the IT Act."
+            }
+        ]
+    }
+]
