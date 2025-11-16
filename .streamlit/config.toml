@@ -1,0 +1,11 @@
+[theme]
+# Primary color (a sophisticated gold/yellow accent for interactive elements)
+primaryColor="#907030" 
+# Background color for the main content area (light, professional off-white)
+backgroundColor="#F9F9F9" 
+# Secondary background color (for sidebars, chat bubbles)
+secondaryBackgroundColor="#FFFFFF" 
+# Text color (dark gray for high contrast)
+textColor="#1E1E1E" 
+# Base font for the entire app
+font="sans serif"
